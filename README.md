@@ -1,5 +1,5 @@
 
-![NeoRixOS](logos/Images/NeoLogo/NeoLogoLong.svg)
+![NeoRixOS](logos/Images/NeoLogo/NeoLogoLong.png)
 
 **NeoRixOS** is a lightweight, bloat-free Linux distro based on Arch, made for everyday use.
 
@@ -55,8 +55,8 @@ The goal isn't to hide Linux's complexity from you — it's to stop making you l
 
 **NeoRixOS** currently offers two desktop environment editions:
 
-- ![Neodymium](logos/Images/NeoLogo/Neodymium.svg) **Neodymium (XFCE)** – Fast and light, essential apps only, and Firefox. Works well on older hardware too.
-- ![Neosilicium](logos/Images/NeoLogo/Neosilicium.svg) **Neosilicium (KDE Plasma)** – Fully customizable desktop with KDE's own app suite. Not bloat-free by nature, but trimmed down as much as possible.
+- ![Neodymium](logos/Images/NeoLogo/Neodymium.png) **Neodymium (XFCE)** – Fast and light, essential apps only, and Firefox. Works well on older hardware too.
+- ![Neosilicium](logos/Images/NeoLogo/Neosilicium.png) **Neosilicium (KDE Plasma)** – Fully customizable desktop with KDE's own app suite. Not bloat-free by nature, but trimmed down as much as possible.
 
 Both editions run on the same Arch-based core. Different desktop, same system.
 
