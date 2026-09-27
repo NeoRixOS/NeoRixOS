@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="7050mm"
+   height="2000mm"
+   viewBox="0 0 7050 2000"
+   version="1.1"
+   id="svg1"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient3">
+      <stop
+         style="stop-color:#0b287d;stop-opacity:1;"
+         offset="0.11769561"
+         id="stop3" />
+      <stop
+         style="stop-color:#ef0000;stop-opacity:1;"
+         offset="1"
+         id="stop4" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient3"
+       id="linearGradient4"
+       x1="1.0032923e-05"
+       y1="2301.875"
+       x2="3360.2085"
+       y2="-1680.1041"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       xlink:href="#linearGradient3"
+       id="linearGradient7"
+       gradientUnits="userSpaceOnUse"
+       x1="1.0032923e-05"
+       y1="2301.875"
+       x2="3360.2085"
+       y2="-1680.1041" />
+  </defs>
+  <g
+     id="layer1"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-weight:900;font-size:1234.72px;font-family:Barlow;-inkscape-font-specification:'Barlow Heavy';writing-mode:lr-tb;direction:ltr;fill:url(#linearGradient4);fill-opacity:1;stroke-width:0.264583"
+       x="195.85385"
+       y="1417.397"
+       id="text2"><tspan
+         id="tspan2"
+         style="font-size:1234.72px;fill:url(#linearGradient4);fill-opacity:1;stroke-width:0.264583"
+         x="195.85385"
+         y="1417.397">Neo</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:900;font-size:1234.72px;font-family:Barlow;-inkscape-font-specification:'Barlow Heavy';writing-mode:lr-tb;direction:ltr;fill:#ffffff;stroke-width:0.264583"
+       x="2378.7949"
+       y="1417.397"
+       id="text3"><tspan
+         id="tspan3"
+         style="font-size:1234.72px;fill:#ffffff;stroke-width:0.264583"
+         x="2378.7949"
+         y="1417.397">dymium</tspan></text>
+  </g>
+  <g
+     id="g6"
+     transform="translate(79.375044)">
+    <text
+       xml:space="preserve"
+       style="font-weight:900;font-size:1234.72px;font-family:Barlow;-inkscape-font-specification:'Barlow Heavy';writing-mode:lr-tb;direction:ltr;fill:url(#linearGradient7);fill-opacity:1;stroke-width:0.264583"
+       x="195.85385"
+       y="1417.397"
+       id="text5"><tspan
+         id="tspan5"
+         style="font-size:1234.72px;fill:url(#linearGradient7);fill-opacity:1;stroke-width:0.264583"
+         x="195.85385"
+         y="1417.397">Neo</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:900;font-size:1234.72px;font-family:Barlow;-inkscape-font-specification:'Barlow Heavy';writing-mode:lr-tb;direction:ltr;fill:#ffffff;stroke-width:0.264583"
+       x="2378.7949"
+       y="1417.397"
+       id="text6"><tspan
+         id="tspan6"
+         style="font-size:1234.72px;fill:#ffffff;stroke-width:0.264583"
+         x="2378.7949"
+         y="1417.397">silicium</tspan></text>
+  </g>
+</svg>
